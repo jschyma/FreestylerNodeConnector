@@ -1,0 +1,33 @@
+{
+  "name": "FreestylerNodeConnector",
+  "version": "1.0.0",
+  "description": "Freestyler DMX API",
+  "main": "freestyler_node_connector.js",
+  "files": [
+    "LICENSE",
+    "Readme.md",
+    "freestyler_node_connector.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jschyma/freestyler_node_connector"
+  },
+  "keywords": [
+    "DMX",
+    "Freestyler",
+    "js"
+  ],
+  "author": "Jens Schyma <jeschyma@gmail.com>",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/jschyma/freestyler_node_connector/issues"
+  },
+  "homepage": "https://github.com/jschyma/freestyler_node_connector",
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+    "q": "^1.1.2"
+  }
+}
