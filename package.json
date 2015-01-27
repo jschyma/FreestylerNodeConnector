@@ -1,5 +1,5 @@
 {
-  "name": "FreestylerNodeConnector",
+  "name": "freestyler_node_connector",
   "version": "1.0.0",
   "description": "Freestyler DMX API",
   "main": "freestyler_node_connector.js",
