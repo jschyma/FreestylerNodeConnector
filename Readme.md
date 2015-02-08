@@ -19,8 +19,8 @@ api.connect().then(function(){
 }).done();
 ```
 
-Known Errors
+##Known Errors
 For some reason Freestyler does not accept more than about a 100 values to be set at once.
 
-[npm-image]: https://img.shields.io/npm/v/express.svg?style=flat
-[npm-url]: https://npmjs.org/package/express
+[npm-image]: https://img.shields.io/npm/v/freestyler_node_connector.svg?style=flat
+[npm-url]: https://npmjs.org/package/freestyler_node_connector
